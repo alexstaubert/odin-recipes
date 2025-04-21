@@ -1,1 +1,2 @@
 # odin-recipes
+The current project aims to construct a basic recipe website. Here, I'll get to demonstrate the things I've learned regarding file structure, webpage elements, and links. During this time, I'll try to focus on making useful commits and commit comments using git and pushing that work to GitHub.
